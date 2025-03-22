@@ -3,7 +3,7 @@
 This project consists of three main files:
 
 - `main.py`: This file contains the main function and the core logic of the program.
-- `plots.py`: This file contains utility functions to run queries and plot execution times. These functions are called from the `hw1.py` file.
+- `plots.py`: This file contains utility functions to run queries and plot execution times. These functions are called from the `main.py` file.
 - `interpreter.csv`: The data file required by the program. 
 ### Installation 
 
